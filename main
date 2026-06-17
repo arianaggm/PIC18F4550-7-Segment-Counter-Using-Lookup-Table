@@ -1,6 +1,6 @@
 ; TODO INSERT CONFIG CODE HERE USING CONFIG BITS GENERATOR
 #include "config.h"
-#include "Disp7seg.h"
+#include "seven_segment_codes.h"
     
 ;#define aw 0
 ;#define af 1
